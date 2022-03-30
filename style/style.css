@@ -23,6 +23,7 @@ h1 {
 }
 
 .o:after {
+    position: absolute;
     content: "🛡️";
     font-size: 50px;
     line-height: 100px;
@@ -33,6 +34,7 @@ h1 {
 }
 
 .x:after {
+    position: absolute;
     content: "⚔️";
     font-size: 50px;
     line-height: 100px;
